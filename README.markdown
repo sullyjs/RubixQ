@@ -1,5 +1,4 @@
 # The Cube
+[![Netlify Status](https://api.netlify.com/api/v1/badges/968b02cd-ce5d-4e25-9336-91de9bfd6301/deploy-status)](https://app.netlify.com/sites/rubixq/deploys)
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/bsehovac/pen/EMyWVv](https://codepen.io/bsehovac/pen/EMyWVv).
-
-See if you can solve this classic Rubik's puzzle game made in three.js.
+www.rubixq.netlify.app
